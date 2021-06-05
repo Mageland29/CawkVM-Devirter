@@ -1,0 +1,11 @@
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\bin\Debug\MemeVM Devirt.exe.config
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\bin\Debug\MemeVM Devirt.exe
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\bin\Debug\MemeVM Devirt.pdb
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\bin\Debug\dnlib.dll
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\bin\Debug\dnlib.pdb
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\bin\Debug\dnlib.xml
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\obj\Debug\MemeVM Devirt.csproj.CoreCompileInputs.cache
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\obj\Debug\MemeVM Devirt.csproj.CopyComplete
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\obj\Debug\MemeVM Devirt.exe
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\obj\Debug\MemeVM Devirt.pdb
+D:\Tuto\MemeVM Devirt\MemeVM Devirt\obj\Debug\MemeVM Devirt.csprojAssemblyReference.cache
